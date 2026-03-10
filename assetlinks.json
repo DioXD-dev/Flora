@@ -1,0 +1,12 @@
+[
+  {
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "io.github.dioxd_dev.twa",
+      "sha256_cert_fingerprints": [
+        "3F:D2:EB:51:74:BC:CD:5B:BE:87:43:55:39:74:13:72:CC:1A:3A:BE:79:85:07:84:8D:3C:F2:9D:DF:D1:C6:2F"
+      ]
+    }
+  }
+]

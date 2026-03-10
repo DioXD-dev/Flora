@@ -2,12 +2,12 @@
   "name": "Flora Music",
   "short_name": "Flora",
   "description": "Pemutar musik lokal yang cantik",
-  "start_url": "./",
+  "start_url": "/",
   "display": "standalone",
   "background_color": "#fffdf9",
   "theme_color": "#4a9460",
   "orientation": "portrait",
-  "scope": "./",
+  "scope": "/",
   "lang": "id",
   "icons": [
     {

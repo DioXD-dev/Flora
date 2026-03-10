@@ -3,7 +3,7 @@
   "short_name": "Flora",
   "description": "Pemutar musik lokal yang cantik",
   "start_url": "/",
-  "display": "standalone",
+  "display": "fullscreen",
   "background_color": "#fffdf9",
   "theme_color": "#4a9460",
   "orientation": "portrait",
